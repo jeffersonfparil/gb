@@ -1,4 +1,7 @@
 pytest
 numpy
-scipy
 pandas
+statsmodels
+scipy
+scikitlearn
+pytorch
