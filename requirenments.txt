@@ -3,5 +3,5 @@ numpy
 pandas
 statsmodels
 scipy
-scikitlearn
+scikit-learn
 pytorch
