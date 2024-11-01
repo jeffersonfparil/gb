@@ -1,6 +1,6 @@
 pytest
 numpy
-pandas
+polars
 statsmodels
 scipy
 scikit-learn
